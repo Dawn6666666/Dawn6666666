@@ -40,21 +40,6 @@
 
 <br>
 
-## 🎧 Now Playing & 📺 Watching
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.vercel.app/api/view?uid=[在此处替换为你的真实Spotify_UID]&cover_image=true&theme=novatorem&show_offline=true&background_color=00000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.vercel.app/api/view?uid=[在此处替换为你的真实Spotify_UID]&cover_image=true&theme=default&show_offline=true&background_color=ffffff">
-    <img alt="Spotify Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=[在此处替换为你的真实Spotify_UID]&cover_image=true&theme=novatorem&show_offline=true&background_color=00000000" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-anilist.vercel.app/api/anilist?username=Dawn6666666&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-anilist.vercel.app/api/anilist?username=Dawn6666666">
-    <img alt="AniList Watching" src="https://github-readme-anilist.vercel.app/api/anilist?username=Dawn6666666&theme=tokyonight" />
-  </picture>
-</div>
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -140,7 +125,6 @@
 
 <br>
 
-<!-- 这里替换了无法显示的蛇形，使用开箱即用的主题同色系日历图 -->
 <div align="center">
   <img alt="Dawn's Contribution Graph" src="https://ghchart.rshah.org/F78DA7/Dawn6666666" />
 </div>
@@ -149,7 +133,7 @@
 
 <div align="center">
 
-<img alt="Goodbye GIF" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="150"/>
+<img alt="Anime Goodbye" src="https://i.postimg.cc/Pq3rPzVt/89f1a225a53b5c2ee4078f6f8f0538a7.gif" width="150"/>
 <br><br>
 ✨ Thanks for visiting my profile ✨
 
