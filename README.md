@@ -22,7 +22,7 @@
 👋 **Hi there, I'm Dawn!**  
 🎓 I'm a **Software Engineering Student** based in China, passionate about building cool stuff.  
 💻 Primarily working as a **Backend Engineer**, but I love exploring different areas of **Open Source**.  
-💖 Also a huge **Anime Lover** (especially *Blue Archive* — Hakari Atsuko is the best!).  
+💖 Also a huge **Anime & ACG fan** (especially *Blue Archive* — Shirasu Azusa is the best!).
 
 📫 How to reach me: Drop me an email at **[dawn114514@linux.do](mailto:dawn114514@linux.do)**
 
