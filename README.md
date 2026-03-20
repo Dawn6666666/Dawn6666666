@@ -22,7 +22,6 @@
 👋 **Hi there, I'm Dawn!**  
 🎓 I'm a **Software Engineering Student** based in China, passionate about building cool stuff.  
 💻 Primarily working as a **Backend Engineer**, but I love exploring different areas of **Open Source**.  
-💖 Also a huge **Anime & ACG fan** (especially *Blue Archive* — Shirasu Azusa is the best!).
 
 📫 How to reach me: Drop me an email at **[dawn114514@linux.do](mailto:dawn114514@linux.do)**
 
@@ -117,9 +116,22 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dawn6666666&theme=tokyo-night&bg_color=00000000&color=F78DA7&line=F78DA7&point=F78DA7">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dawn6666666&theme=github&color=F78DA7&line=F78DA7&point=F78DA7">
-    <img alt="Activity Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dawn6666666&theme=tokyo-night&bg_color=00000000&color=F78DA7&line=F78DA7&point=F78DA7"/>
+    <!-- 深色模式 -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dawn6666666&theme=tokyo-night&bg_color=000000&color=F78DA7&line=F78DA7&point=F78DA7"
+    />
+    <!-- 浅色模式 -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dawn6666666&theme=github&bg_color=ffffff&color=F78DA7&line=F78DA7&point=F78DA7"
+    />
+    <!-- 兜底图建议也用浅色，不然某些情况下会一直显示暗色 -->
+    <img
+      alt="Activity Graph"
+      width="100%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Dawn6666666&theme=github&bg_color=ffffff&color=F78DA7&line=F78DA7&point=F78DA7"
+    />
   </picture>
 </div>
 
