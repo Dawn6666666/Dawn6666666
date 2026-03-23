@@ -76,14 +76,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Dawn6666666&theme=tokyonight&no-frame=true&margin-w=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Dawn6666666&theme=flat&no-frame=true&margin-w=10">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Dawn6666666&theme=tokyonight&no-frame=true&margin-w=10"/>
-  </picture>
-</div>
-
 <br>
 
 <div align="center">
