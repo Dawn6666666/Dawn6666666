@@ -95,12 +95,15 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dawn6666666&theme=tokyonight&hide_border=true&background=00000000&ring=F78DA7&fire=F78DA7&currStreakLabel=F78DA7">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dawn6666666&theme=default&ring=F78DA7&fire=F78DA7&currStreakLabel=F78DA7">
-    <img alt="GitHub Streak" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Dawn6666666&theme=tokyonight&hide_border=true&background=00000000&ring=F78DA7&fire=F78DA7&currStreakLabel=F78DA7" />
+    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dawn6666666&theme=tokyonight&hide_border=true&background=00000000&ring=F78DA7&fire=F78DA7&currStreakLabel=F78DA7" />
   </picture>
+</div>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Dawn6666666&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000&title_color=F78DA7">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Dawn6666666&theme=default&layout=compact&title_color=F78DA7&text_color=333333">
-    <img alt="WakaTime Stats" height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dawn6666666&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000&title_color=F78DA7" />
+    <img alt="WakaTime Stats" width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dawn6666666&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000&title_color=F78DA7" />
   </picture>
 </div>
 
