@@ -77,9 +77,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Dawn6666666&theme=tokyonight&hide_border=true&background=00000000&ring=F78DA7&fire=F78DA7&currStreakLabel=F78DA7">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Dawn6666666&theme=tokyonight&hide_border=true&ring=F78DA7&fire=F78DA7&currStreakLabel=F78DA7">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Dawn6666666&theme=default&ring=F78DA7&fire=F78DA7&currStreakLabel=F78DA7">
-    <img alt="GitHub Streak" width="49%" src="https://streak-stats.demolab.com/?user=Dawn6666666&theme=tokyonight&hide_border=true&background=00000000&ring=F78DA7&fire=F78DA7&currStreakLabel=F78DA7" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Dawn6666666&theme=tokyonight&hide_border=true&ring=F78DA7&fire=F78DA7&currStreakLabel=F78DA7" />
   </picture>
 </div>
 
