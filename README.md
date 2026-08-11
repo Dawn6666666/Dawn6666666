@@ -6,7 +6,7 @@
 
 # Hi 👋 I'm Dawn
 
-<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?lines=Hello%20World%21%20%F0%9F%91%8B;Anime%20%26%20ACG%20Culture%20Lover%20%F0%9F%8C%B8;Backend%20Developer%20%F0%9F%92%BB;Open%20Source%20Contributor%20%F0%9F%9A%80;Explore%20my%20Blog%20-%3E%20dawn114514.site%20%E2%9C%A8;Welcome%20to%20my%20Blog%20%F0%9F%92%96&center=true&size=26&color=F78DA7&pause=1000">
+<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?lines=Anime%20%26%20ACG%20Culture%20Lover%20%F0%9F%8C%B8;Backend%20Developer%20%F0%9F%92%BB;Open%20Source%20Contributor%20%F0%9F%9A%80;Explore%20my%20Blog%20-%3E%20dawn114514.site%20%E2%9C%A8;Welcome%20to%20my%20Blog%20%F0%9F%92%96&center=true&size=26&color=F78DA7&pause=1000">
 
 <br>
 
