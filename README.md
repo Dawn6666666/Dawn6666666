@@ -42,34 +42,18 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Dawn6666666/intellibuddy">
+  <a href="https://github.com/LyraVoid/Mizuki">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dawn6666666&repo=intellibuddy&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=F78DA7&icon_color=F78DA7&text_color=c9d1d9">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dawn6666666&repo=intellibuddy&theme=default&title_color=F78DA7&icon_color=F78DA7&text_color=333333">
-      <img alt="intellibuddy" src="https://github-readme-stats.vercel.app/api/pin/?username=Dawn6666666&repo=intellibuddy&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=F78DA7&icon_color=F78DA7&text_color=c9d1d9" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=LyraVoid&repo=Mizuki&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=F78DA7&icon_color=F78DA7&text_color=c9d1d9">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=LyraVoid&repo=Mizuki&theme=default&title_color=F78DA7&icon_color=F78DA7&text_color=333333">
+      <img alt="Mizuki" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LyraVoid&repo=Mizuki&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=F78DA7&icon_color=F78DA7&text_color=c9d1d9" />
     </picture>
   </a>
   <a href="https://github.com/Dawn6666666/Matrix_Calculator">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dawn6666666&repo=Matrix_Calculator&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=F78DA7&icon_color=F78DA7&text_color=c9d1d9">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dawn6666666&repo=Matrix_Calculator&theme=default&title_color=F78DA7&icon_color=F78DA7&text_color=333333">
-      <img alt="Matrix_Calculator" src="https://github-readme-stats.vercel.app/api/pin/?username=Dawn6666666&repo=Matrix_Calculator&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=F78DA7&icon_color=F78DA7&text_color=c9d1d9" />
-    </picture>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Dawn6666666/yunfeiyang-official-site">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dawn6666666&repo=yunfeiyang-official-site&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=F78DA7&icon_color=F78DA7&text_color=c9d1d9">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dawn6666666&repo=yunfeiyang-official-site&theme=default&title_color=F78DA7&icon_color=F78DA7&text_color=333333">
-      <img alt="yunfeiyang-official-site" src="https://github-readme-stats.vercel.app/api/pin/?username=Dawn6666666&repo=yunfeiyang-official-site&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=F78DA7&icon_color=F78DA7&text_color=c9d1d9" />
-    </picture>
-  </a>
-  <a href="https://github.com/Dawn6666666/new-api-model-redirect-toolkit">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dawn6666666&repo=new-api-model-redirect-toolkit&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=F78DA7&icon_color=F78DA7&text_color=c9d1d9">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Dawn6666666&repo=new-api-model-redirect-toolkit&theme=default&title_color=F78DA7&icon_color=F78DA7&text_color=333333">
-      <img alt="new-api-model-redirect-toolkit" src="https://github-readme-stats.vercel.app/api/pin/?username=Dawn6666666&repo=new-api-model-redirect-toolkit&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=F78DA7&icon_color=F78DA7&text_color=c9d1d9" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=Dawn6666666&repo=Matrix_Calculator&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=F78DA7&icon_color=F78DA7&text_color=c9d1d9">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=Dawn6666666&repo=Matrix_Calculator&theme=default&title_color=F78DA7&icon_color=F78DA7&text_color=333333">
+      <img alt="Matrix_Calculator" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Dawn6666666&repo=Matrix_Calculator&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=F78DA7&icon_color=F78DA7&text_color=c9d1d9" />
     </picture>
   </a>
 </div>
@@ -80,30 +64,30 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dawn6666666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F78DA7&icon_color=F78DA7">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dawn6666666&show_icons=true&theme=default&title_color=F78DA7&icon_color=F78DA7&text_color=333333">
-    <img alt="GitHub Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=Dawn6666666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F78DA7&icon_color=F78DA7" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Dawn6666666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F78DA7&icon_color=F78DA7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Dawn6666666&show_icons=true&theme=default&title_color=F78DA7&icon_color=F78DA7&text_color=333333">
+    <img alt="GitHub Stats" height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Dawn6666666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F78DA7&icon_color=F78DA7" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn6666666&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F78DA7">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn6666666&layout=compact&theme=default&title_color=F78DA7&text_color=333333">
-    <img alt="Top Languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn6666666&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F78DA7" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dawn6666666&theme=tokyonight&hide_border=true&background=00000000&ring=F78DA7&fire=F78DA7&currStreakLabel=F78DA7">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dawn6666666&theme=default&ring=F78DA7&fire=F78DA7&currStreakLabel=F78DA7">
-    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dawn6666666&theme=tokyonight&hide_border=true&background=00000000&ring=F78DA7&fire=F78DA7&currStreakLabel=F78DA7" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dawn6666666&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F78DA7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dawn6666666&layout=compact&theme=default&title_color=F78DA7&text_color=333333">
+    <img alt="Top Languages" height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dawn6666666&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F78DA7" />
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Dawn6666666&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000&title_color=F78DA7">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Dawn6666666&theme=default&layout=compact&title_color=F78DA7&text_color=333333">
-    <img alt="WakaTime Stats" width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dawn6666666&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000&title_color=F78DA7" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Dawn6666666&theme=tokyonight&hide_border=true&background=00000000&ring=F78DA7&fire=F78DA7&currStreakLabel=F78DA7">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Dawn6666666&theme=default&ring=F78DA7&fire=F78DA7&currStreakLabel=F78DA7">
+    <img alt="GitHub Streak" width="49%" src="https://streak-stats.demolab.com/?user=Dawn6666666&theme=tokyonight&hide_border=true&background=00000000&ring=F78DA7&fire=F78DA7&currStreakLabel=F78DA7" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Dawn6666666&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000&title_color=F78DA7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Dawn6666666&theme=default&layout=compact&title_color=F78DA7&text_color=333333">
+    <img alt="WakaTime Stats" width="70%" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Dawn6666666&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000&title_color=F78DA7" />
   </picture>
 </div>
 
