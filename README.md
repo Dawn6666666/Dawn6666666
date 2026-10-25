@@ -23,7 +23,7 @@
 🎓 I'm a **Software Engineering Student** based in China, passionate about building cool stuff.  
 💻 Primarily working as a **Backend Engineer**, but I love exploring different areas of **Open Source**.  
 
-📫 How to reach me: Drop me an email at **[dawn114514@linux.do](mailto:dawn114514@linux.do)**
+📫 How to reach me: Drop me an email at **[3255235912@qq.com](mailto:3255235912@qq.com)**
 
 <div align="center">
   <img alt="Tech Stack Icons" src="https://skillicons.dev/icons?i=python,java,go,mysql,redis,docker,linux,git,github,idea&theme=dark"/>
